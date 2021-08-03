@@ -1,0 +1,1 @@
+Simple example of cookies based auth using tornado and redis .
